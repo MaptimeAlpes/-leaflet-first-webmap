@@ -1,2 +1,2 @@
-# -leaflet-first-webmap
+# leaflet-first-webmap
 slides pour l'atelier leaflet

@@ -7,9 +7,10 @@ Des exercices ont permis de créer des webmaps.
 
 ### Exercices
 Les solution des exervices se trouvents ici : 
-[Exercice 1](exercices-1.html) : Premiere carte centrée sur Grenoble avec un marker sur Cowork in Grenoble' exercices-1.html
+- [Exercice 1](exercices-1.html) : Premiere carte centrée sur Grenoble avec un marker sur Cowork in Grenoble' 
 
-[Exercice 2](exercices-1.html) : Premiere carte centrée sur Grenoble avec un marker sur Cowork in Grenoble' exercices-1.html
+- [Exercice 2a](exercices-2a.html) : Ajouter la possiblité de changer de fond de plans
+- [Exercice 2b](exercices-2a.html) : Codage javascript en utilisant un selection pour changer le fond de plan
 
 ### Challenge
 Réaliser une carte avec les délits sur San Francisco, en utilisant les données fournies via l'[API crimespotting](http://sanfrancisco.crimespotting.org/api).
